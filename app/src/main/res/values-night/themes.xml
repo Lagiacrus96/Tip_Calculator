@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dark theme. -->
+    <style name="Base.Theme.TipCalculator.Dark" parent="Theme.AppCompat">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/dark_primary_blue</item>
+        <item name="colorPrimaryVariant">@color/dark_lighter_blue</item>
+        <item name="android:colorBackground">@color/dark_background_blue</item>
+    </style>
+</resources>
